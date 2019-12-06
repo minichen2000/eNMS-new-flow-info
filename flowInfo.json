@@ -1,6 +1,6 @@
 [
 	{
-  	type: 'CTP',
+  	type: "CTP",
     id: 'ctp_1',
     userlabel: 'C1/dsr=1',
     ptpId: 'ptp_1',
